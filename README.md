@@ -1,4 +1,4 @@
-# Real-Time Self-Supervised 3D Mesh Object Retrieval for Geometric Similarity
+# Fast Self-Supervised 3D Mesh Object Retrieval for Geometric Similarity
 Supplementary Material
 
 ## Getting Started
