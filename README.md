@@ -2,7 +2,7 @@
 Supplementary Material
 
 ## Getting Started
-Open the "MORe.html" file in any browser and have a walk-through of supplementary material for ICVGIP'23.
+Open the "MORe.html" file in any browser and have a walk-through of supplementary material for CVIU'24.
 
 ### Method
 Diagram of the method proposed.
